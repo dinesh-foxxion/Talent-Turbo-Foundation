@@ -5,10 +5,11 @@
 
 
 :root {
-    --font-heading: crimson;
+    --font-heading: rgb(43, 52, 89);
     --para-font: #777777;
     --black: #222222;
-    --bg: rgba(237, 28, 70);
+    /* --bg: rgba(237, 28, 70); */
+    --bg:rgb(43, 52, 89);
     --white: #fff;
 }
 
